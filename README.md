@@ -7,11 +7,13 @@ Um detalhe importante: software livre para uso!
 Objetivo: propiciar uma introdução a planilhas eletrônicas com o uso do Libreoffice Calc.
 
 Conteúdo programático:
-  01 - Apresentação do curso e do software.
-  02 - Operações matemáticas básicas: adição (+), subtração (-), multiplicação (*) e divisão (/).
-  03 - Função =SOMA()
-  04 - Função =MÉDIA()
-  05 - Função =MÍNIMO()
-  06 - Função =MÁXIMO()
-  07 - Função =CONTAR() e suas variantes
-  08 - Planilha de despesas e exercício final
+<ul>
+  <li>Aula 01 - Apresentação do curso e do software</li>
+  <li>Aula 02 - Operações matemáticas básicas: adição (+), subtração (-), multiplicação (*) e divisão (/)</li>
+  <li>Aula 03 - Função =SOMA()</li>
+  <li>Aula 04 - Função =MÉDIA()</li>
+  <li>Aula 05 - Função =MÍNIMO()</li>
+  <li>Aula 06 - Função =MÁXIMO()</li>
+  <li>Aula 07 - Função =CONTAR() e suas variantes</li>
+  <li>Aula 08 - Planilha de despesas e exercício final</li>
+</ul>
